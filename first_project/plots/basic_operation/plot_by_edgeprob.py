@@ -46,7 +46,7 @@ def create_plots(data):
         # Plotar uma linha para cada k
         for k, execution_times in times.items():
             ax.plot(vertices, execution_times, 'o-', label=f'k={k}', color=colors[k])
-        
+            
         ax.set_title(f'Grafo tamanho {graph_size}')
         ax.set_xlabel('Vertices number')
         ax.set_ylabel('Basic Operations')
@@ -57,7 +57,7 @@ def create_plots(data):
     plt.show()
 
 # Seus dados
-with open('results/greedy_search_results.json', 'r') as f:
+with open('results/randomized_search_results.json', 'r') as f:
     data = json.load(f)
 
 # Criar os gráficos

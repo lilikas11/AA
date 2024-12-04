@@ -63,3 +63,13 @@ python3 greedy_search.py <filename> [solution]
 - `solution` is an optional parameter that specifies whether you want to see the solution on the generated file.
 
 
+
+### Running results for 100 graphs
+
+To run the experiment, use the following command:
+```sh
+python3 experiment.py 
+```
+
+Change the algorithm you want to run on the file
+
