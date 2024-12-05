@@ -47,7 +47,7 @@ To run the exhaustive search algorithm, use the following command:
 python3 exhaustive_search.py <filename> [solution]
 ```
 
-- `<input_file>` is the path to tge graph file.
+- `<input_file>` is the path to the graph file.
 - `solution` is an optional parameter that specifies whether you want to see the solution on the generated file.
 
 
@@ -59,7 +59,18 @@ To run the greedy search algorithm, use the following command:
 python3 greedy_search.py <filename> [solution]
 ```
 
-- `<filename>` is the path to tge graph file.
+- `<filename>` is the path to the graph file.
+- `solution` is an optional parameter that specifies whether you want to see the solution on the generated file.
+
+
+### Running Randomized Search
+
+To run the randomized search algorithm, use the following command:
+```sh
+python3 randomized_search.py <filename> [solution]
+```
+
+- `<filename>` is the path to the graph file.
 - `solution` is an optional parameter that specifies whether you want to see the solution on the generated file.
 
 
@@ -73,3 +84,28 @@ python3 experiment.py
 
 Change the algorithm you want to run on the file
 
+
+## Plots
+
+- `basic_operation` folder: See results of basic operations for vertex numbers.
+- `config_tested` folder: See results of tested configurations for vertex numbers.
+- `time` folder: See results of execution times for vertex numbers.
+
+### Plot Scripts
+
+- `plots_by_exhaustive.py`: Generates plots for the exhaustive algorithm for vertex numbers, one graph for each k value, and lines with different densities.
+- `plots_by_greedy.py`: Generates plots for the greedy algorithm.
+- `plots_by_randomized.py`: Generates plots for the randomized algorithm.
+- `compare_plot.py`: Compares the algorithms.
+
+#### Only in `basic_operation` folder:
+
+- `compare_operations.py`: Compares the basic operations for the 3 algorithms with density 75%.
+- `compare_true_false.py`: Compares basic operations values to the true and false values of the randomized algorithm.
+- `only_true.py`: Shows the tendency of basic operations for vertex numbers only for the true values on the randomized algorithm.
+
+### Additional Scripts
+
+- `exc_time.py`: Gets the magnitude of the operations per second of your computer.
+- `erros_greedy.py`: Gets the errors of the greedy algorithm.
+- `erros_randomized.py`: Gets the errors of the randomized algorithm.
