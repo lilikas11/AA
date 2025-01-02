@@ -1,0 +1,29 @@
+{
+    "twitch/ES/musae_ES_features.json": [
+        {
+            "k": 0.5,
+            "success": true,
+            "decisions_made": 4144,
+            "execution_time": 286.98210620880127,
+            "basic_operations_count": 41440
+        }
+    ],
+    "twitch/PTBR/musae_PTBR_features.json": [
+        {
+            "k": 0.5,
+            "success": true,
+            "decisions_made": 1713,
+            "execution_time": 33.64636015892029,
+            "basic_operations_count": 17130
+        }
+    ],
+    "twitch/RU/musae_RU_features.json": [
+        {
+            "k": 0.5,
+            "success": true,
+            "decisions_made": 3830,
+            "execution_time": 261.31693291664124,
+            "basic_operations_count": 38300
+        }
+    ]
+}

@@ -1,0 +1,4412 @@
+{
+    "graphs/graph_004_12.json": [
+        {
+            "k": 0.125,
+            "success": false,
+            "configs_tested": 1,
+            "execution_time": 8.821487426757812e-06,
+            "basic_operations_count": 12
+        },
+        {
+            "k": 0.25,
+            "success": false,
+            "configs_tested": 1,
+            "execution_time": 3.814697265625e-06,
+            "basic_operations_count": 12
+        },
+        {
+            "k": 0.5,
+            "success": false,
+            "configs_tested": 1,
+            "execution_time": 5.4836273193359375e-06,
+            "basic_operations_count": 12
+        },
+        {
+            "k": 0.75,
+            "success": false,
+            "configs_tested": 1,
+            "execution_time": 3.814697265625e-06,
+            "basic_operations_count": 12
+        }
+    ],
+    "graphs/graph_005_12.json": [
+        {
+            "k": 0.125,
+            "success": false,
+            "configs_tested": 1,
+            "execution_time": 1.0251998901367188e-05,
+            "basic_operations_count": 14
+        },
+        {
+            "k": 0.25,
+            "success": false,
+            "configs_tested": 1,
+            "execution_time": 3.5762786865234375e-06,
+            "basic_operations_count": 14
+        },
+        {
+            "k": 0.5,
+            "success": false,
+            "configs_tested": 1,
+            "execution_time": 2.86102294921875e-06,
+            "basic_operations_count": 14
+        },
+        {
+            "k": 0.75,
+            "success": false,
+            "configs_tested": 1,
+            "execution_time": 2.6226043701171875e-06,
+            "basic_operations_count": 14
+        }
+    ],
+    "graphs/graph_006_12.json": [
+        {
+            "k": 0.125,
+            "success": false,
+            "configs_tested": 1,
+            "execution_time": 2.3126602172851562e-05,
+            "basic_operations_count": 16
+        },
+        {
+            "k": 0.25,
+            "success": false,
+            "configs_tested": 1,
+            "execution_time": 7.152557373046875e-06,
+            "basic_operations_count": 16
+        },
+        {
+            "k": 0.5,
+            "success": false,
+            "configs_tested": 1,
+            "execution_time": 5.7220458984375e-06,
+            "basic_operations_count": 16
+        },
+        {
+            "k": 0.75,
+            "success": false,
+            "configs_tested": 1,
+            "execution_time": 4.0531158447265625e-06,
+            "basic_operations_count": 16
+        }
+    ],
+    "graphs/graph_007_12.json": [
+        {
+            "k": 0.125,
+            "success": false,
+            "configs_tested": 1,
+            "execution_time": 7.3909759521484375e-06,
+            "basic_operations_count": 18
+        },
+        {
+            "k": 0.25,
+            "success": false,
+            "configs_tested": 1,
+            "execution_time": 3.0994415283203125e-06,
+            "basic_operations_count": 18
+        },
+        {
+            "k": 0.5,
+            "success": false,
+            "configs_tested": 2,
+            "execution_time": 4.5299530029296875e-06,
+            "basic_operations_count": 25
+        },
+        {
+            "k": 0.75,
+            "success": false,
+            "configs_tested": 2,
+            "execution_time": 3.814697265625e-06,
+            "basic_operations_count": 25
+        }
+    ],
+    "graphs/graph_008_12.json": [
+        {
+            "k": 0.125,
+            "success": false,
+            "configs_tested": 1,
+            "execution_time": 1.0013580322265625e-05,
+            "basic_operations_count": 20
+        },
+        {
+            "k": 0.25,
+            "success": false,
+            "configs_tested": 1,
+            "execution_time": 3.337860107421875e-06,
+            "basic_operations_count": 20
+        },
+        {
+            "k": 0.5,
+            "success": false,
+            "configs_tested": 3,
+            "execution_time": 8.106231689453125e-06,
+            "basic_operations_count": 31
+        },
+        {
+            "k": 0.75,
+            "success": false,
+            "configs_tested": 3,
+            "execution_time": 9.298324584960938e-06,
+            "basic_operations_count": 34
+        }
+    ],
+    "graphs/graph_009_12.json": [
+        {
+            "k": 0.125,
+            "success": false,
+            "configs_tested": 1,
+            "execution_time": 7.3909759521484375e-06,
+            "basic_operations_count": 22
+        },
+        {
+            "k": 0.25,
+            "success": false,
+            "configs_tested": 4,
+            "execution_time": 6.9141387939453125e-06,
+            "basic_operations_count": 37
+        },
+        {
+            "k": 0.5,
+            "success": false,
+            "configs_tested": 6,
+            "execution_time": 9.059906005859375e-06,
+            "basic_operations_count": 48
+        },
+        {
+            "k": 0.75,
+            "success": false,
+            "configs_tested": 4,
+            "execution_time": 8.106231689453125e-06,
+            "basic_operations_count": 43
+        }
+    ],
+    "graphs/graph_010_12.json": [
+        {
+            "k": 0.125,
+            "success": false,
+            "configs_tested": 1,
+            "execution_time": 9.5367431640625e-06,
+            "basic_operations_count": 24
+        },
+        {
+            "k": 0.25,
+            "success": false,
+            "configs_tested": 5,
+            "execution_time": 7.62939453125e-06,
+            "basic_operations_count": 43
+        },
+        {
+            "k": 0.5,
+            "success": false,
+            "configs_tested": 10,
+            "execution_time": 2.002716064453125e-05,
+            "basic_operations_count": 66
+        },
+        {
+            "k": 0.75,
+            "success": false,
+            "configs_tested": 10,
+            "execution_time": 2.5033950805664062e-05,
+            "basic_operations_count": 69
+        }
+    ],
+    "graphs/graph_011_12.json": [
+        {
+            "k": 0.125,
+            "success": false,
+            "configs_tested": 1,
+            "execution_time": 7.152557373046875e-06,
+            "basic_operations_count": 26
+        },
+        {
+            "k": 0.25,
+            "success": false,
+            "configs_tested": 6,
+            "execution_time": 8.58306884765625e-06,
+            "basic_operations_count": 49
+        },
+        {
+            "k": 0.5,
+            "success": false,
+            "configs_tested": 20,
+            "execution_time": 2.6464462280273438e-05,
+            "basic_operations_count": 111
+        },
+        {
+            "k": 0.75,
+            "success": false,
+            "configs_tested": 15,
+            "execution_time": 2.193450927734375e-05,
+            "basic_operations_count": 94
+        }
+    ],
+    "graphs/graph_012_12.json": [
+        {
+            "k": 0.125,
+            "success": false,
+            "configs_tested": 8,
+            "execution_time": 1.4066696166992188e-05,
+            "basic_operations_count": 59
+        },
+        {
+            "k": 0.25,
+            "success": false,
+            "configs_tested": 28,
+            "execution_time": 2.765655517578125e-05,
+            "basic_operations_count": 142
+        },
+        {
+            "k": 0.5,
+            "success": false,
+            "configs_tested": 70,
+            "execution_time": 0.00012755393981933594,
+            "basic_operations_count": 316
+        },
+        {
+            "k": 0.75,
+            "success": false,
+            "configs_tested": 28,
+            "execution_time": 6.079673767089844e-05,
+            "basic_operations_count": 154
+        }
+    ],
+    "graphs/graph_013_12.json": [
+        {
+            "k": 0.125,
+            "success": false,
+            "configs_tested": 9,
+            "execution_time": 1.430511474609375e-05,
+            "basic_operations_count": 65
+        },
+        {
+            "k": 0.25,
+            "success": false,
+            "configs_tested": 36,
+            "execution_time": 3.3855438232421875e-05,
+            "basic_operations_count": 176
+        },
+        {
+            "k": 0.5,
+            "success": false,
+            "configs_tested": 126,
+            "execution_time": 0.00016069412231445312,
+            "basic_operations_count": 542
+        },
+        {
+            "k": 0.75,
+            "success": false,
+            "configs_tested": 84,
+            "execution_time": 0.00021076202392578125,
+            "basic_operations_count": 380
+        }
+    ],
+    "graphs/graph_014_12.json": [
+        {
+            "k": 0.125,
+            "success": false,
+            "configs_tested": 11,
+            "execution_time": 1.71661376953125e-05,
+            "basic_operations_count": 75
+        },
+        {
+            "k": 0.25,
+            "success": false,
+            "configs_tested": 55,
+            "execution_time": 5.1021575927734375e-05,
+            "basic_operations_count": 254
+        },
+        {
+            "k": 0.5,
+            "success": false,
+            "configs_tested": 462,
+            "execution_time": 0.0006365776062011719,
+            "basic_operations_count": 1891
+        },
+        {
+            "k": 0.75,
+            "success": false,
+            "configs_tested": 165,
+            "execution_time": 0.00028228759765625,
+            "basic_operations_count": 712
+        }
+    ],
+    "graphs/graph_015_12.json": [
+        {
+            "k": 0.125,
+            "success": false,
+            "configs_tested": 13,
+            "execution_time": 1.7881393432617188e-05,
+            "basic_operations_count": 85
+        },
+        {
+            "k": 0.25,
+            "success": false,
+            "configs_tested": 286,
+            "execution_time": 0.00030612945556640625,
+            "basic_operations_count": 1183
+        },
+        {
+            "k": 0.5,
+            "success": false,
+            "configs_tested": 1716,
+            "execution_time": 0.002532958984375,
+            "basic_operations_count": 6912
+        },
+        {
+            "k": 0.75,
+            "success": false,
+            "configs_tested": 715,
+            "execution_time": 0.0012524127960205078,
+            "basic_operations_count": 2917
+        }
+    ],
+    "graphs/graph_016_12.json": [
+        {
+            "k": 0.125,
+            "success": false,
+            "configs_tested": 15,
+            "execution_time": 1.7404556274414062e-05,
+            "basic_operations_count": 95
+        },
+        {
+            "k": 0.25,
+            "success": false,
+            "configs_tested": 455,
+            "execution_time": 0.0005698204040527344,
+            "basic_operations_count": 1861
+        },
+        {
+            "k": 0.5,
+            "success": false,
+            "configs_tested": 6435,
+            "execution_time": 0.01277780532836914,
+            "basic_operations_count": 25793
+        },
+        {
+            "k": 0.75,
+            "success": false,
+            "configs_tested": 1365,
+            "execution_time": 0.004327058792114258,
+            "basic_operations_count": 5525
+        }
+    ],
+    "graphs/graph_017_12.json": [
+        {
+            "k": 0.125,
+            "success": false,
+            "configs_tested": 136,
+            "execution_time": 0.0001590251922607422,
+            "basic_operations_count": 584
+        },
+        {
+            "k": 0.25,
+            "success": false,
+            "configs_tested": 2380,
+            "execution_time": 0.003068685531616211,
+            "basic_operations_count": 9566
+        },
+        {
+            "k": 0.5,
+            "success": false,
+            "configs_tested": 24310,
+            "execution_time": 0.04487419128417969,
+            "basic_operations_count": 97298
+        },
+        {
+            "k": 0.75,
+            "success": false,
+            "configs_tested": 6188,
+            "execution_time": 0.014852046966552734,
+            "basic_operations_count": 24822
+        }
+    ],
+    "graphs/graph_018_12.json": [
+        {
+            "k": 0.125,
+            "success": false,
+            "configs_tested": 171,
+            "execution_time": 0.00023174285888671875,
+            "basic_operations_count": 726
+        },
+        {
+            "k": 0.25,
+            "success": false,
+            "configs_tested": 3876,
+            "execution_time": 0.006031036376953125,
+            "basic_operations_count": 15552
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 42678,
+            "execution_time": 0.09598803520202637,
+            "basic_operations_count": 170775
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 62,
+            "execution_time": 0.0001647472381591797,
+            "basic_operations_count": 326
+        }
+    ],
+    "graphs/graph_019_12.json": [
+        {
+            "k": 0.125,
+            "success": false,
+            "configs_tested": 210,
+            "execution_time": 0.00017547607421875,
+            "basic_operations_count": 884
+        },
+        {
+            "k": 0.25,
+            "success": false,
+            "configs_tested": 20349,
+            "execution_time": 0.033524274826049805,
+            "basic_operations_count": 81449
+        },
+        {
+            "k": 0.5,
+            "success": false,
+            "configs_tested": 352716,
+            "execution_time": 0.7424743175506592,
+            "basic_operations_count": 1410932
+        },
+        {
+            "k": 0.75,
+            "success": false,
+            "configs_tested": 54264,
+            "execution_time": 0.1493525505065918,
+            "basic_operations_count": 217139
+        }
+    ],
+    "graphs/graph_020_12.json": [
+        {
+            "k": 0.125,
+            "success": false,
+            "configs_tested": 253,
+            "execution_time": 0.0002167224884033203,
+            "basic_operations_count": 1058
+        },
+        {
+            "k": 0.25,
+            "success": false,
+            "configs_tested": 33649,
+            "execution_time": 0.05024600028991699,
+            "basic_operations_count": 134651
+        },
+        {
+            "k": 0.5,
+            "success": false,
+            "configs_tested": 1352078,
+            "execution_time": 2.9379019737243652,
+            "basic_operations_count": 5408385
+        },
+        {
+            "k": 0.75,
+            "success": false,
+            "configs_tested": 100947,
+            "execution_time": 0.29236602783203125,
+            "basic_operations_count": 403879
+        }
+    ],
+    "graphs/graph_021_12.json": [
+        {
+            "k": 0.125,
+            "success": false,
+            "configs_tested": 2600,
+            "execution_time": 0.0026998519897460938,
+            "basic_operations_count": 10451
+        },
+        {
+            "k": 0.25,
+            "success": false,
+            "configs_tested": 230230,
+            "execution_time": 0.3622012138366699,
+            "basic_operations_count": 920980
+        },
+        {
+            "k": 0.5,
+            "success": false,
+            "configs_tested": 10400600,
+            "execution_time": 24.508721590042114,
+            "basic_operations_count": 41602481
+        },
+        {
+            "k": 0.75,
+            "success": false,
+            "configs_tested": 657800,
+            "execution_time": 2.312072515487671,
+            "basic_operations_count": 2631299
+        }
+    ],
+    "graphs/graph_022_12.json": [
+        {
+            "k": 0.125,
+            "success": false,
+            "configs_tested": 3276,
+            "execution_time": 0.0036613941192626953,
+            "basic_operations_count": 13157
+        },
+        {
+            "k": 0.25,
+            "success": false,
+            "configs_tested": 1184040,
+            "execution_time": 2.0150492191314697,
+            "basic_operations_count": 4736225
+        },
+        {
+            "k": 0.5,
+            "success": false,
+            "configs_tested": 40116600,
+            "execution_time": 107.16827917098999,
+            "basic_operations_count": 160466486
+        },
+        {
+            "k": 0.75,
+            "success": false,
+            "configs_tested": 1184040,
+            "execution_time": 5.0940186977386475,
+            "basic_operations_count": 4736267
+        }
+    ],
+    "graphs/graph_004_25.json": [
+        {
+            "k": 0.125,
+            "success": false,
+            "configs_tested": 1,
+            "execution_time": 7.867813110351562e-06,
+            "basic_operations_count": 12
+        },
+        {
+            "k": 0.25,
+            "success": false,
+            "configs_tested": 1,
+            "execution_time": 4.5299530029296875e-06,
+            "basic_operations_count": 12
+        },
+        {
+            "k": 0.5,
+            "success": false,
+            "configs_tested": 1,
+            "execution_time": 4.5299530029296875e-06,
+            "basic_operations_count": 12
+        },
+        {
+            "k": 0.75,
+            "success": false,
+            "configs_tested": 1,
+            "execution_time": 3.337860107421875e-06,
+            "basic_operations_count": 12
+        }
+    ],
+    "graphs/graph_005_25.json": [
+        {
+            "k": 0.125,
+            "success": false,
+            "configs_tested": 1,
+            "execution_time": 7.152557373046875e-06,
+            "basic_operations_count": 14
+        },
+        {
+            "k": 0.25,
+            "success": false,
+            "configs_tested": 1,
+            "execution_time": 4.5299530029296875e-06,
+            "basic_operations_count": 14
+        },
+        {
+            "k": 0.5,
+            "success": false,
+            "configs_tested": 2,
+            "execution_time": 4.76837158203125e-06,
+            "basic_operations_count": 21
+        },
+        {
+            "k": 0.75,
+            "success": false,
+            "configs_tested": 2,
+            "execution_time": 4.5299530029296875e-06,
+            "basic_operations_count": 21
+        }
+    ],
+    "graphs/graph_006_25.json": [
+        {
+            "k": 0.125,
+            "success": false,
+            "configs_tested": 1,
+            "execution_time": 8.106231689453125e-06,
+            "basic_operations_count": 16
+        },
+        {
+            "k": 0.25,
+            "success": false,
+            "configs_tested": 1,
+            "execution_time": 4.0531158447265625e-06,
+            "basic_operations_count": 16
+        },
+        {
+            "k": 0.5,
+            "success": false,
+            "configs_tested": 3,
+            "execution_time": 7.62939453125e-06,
+            "basic_operations_count": 27
+        },
+        {
+            "k": 0.75,
+            "success": false,
+            "configs_tested": 3,
+            "execution_time": 9.298324584960938e-06,
+            "basic_operations_count": 30
+        }
+    ],
+    "graphs/graph_007_25.json": [
+        {
+            "k": 0.125,
+            "success": false,
+            "configs_tested": 1,
+            "execution_time": 8.344650268554688e-06,
+            "basic_operations_count": 18
+        },
+        {
+            "k": 0.25,
+            "success": false,
+            "configs_tested": 5,
+            "execution_time": 7.867813110351562e-06,
+            "basic_operations_count": 37
+        },
+        {
+            "k": 0.5,
+            "success": false,
+            "configs_tested": 10,
+            "execution_time": 1.3589859008789062e-05,
+            "basic_operations_count": 60
+        },
+        {
+            "k": 0.75,
+            "success": false,
+            "configs_tested": 10,
+            "execution_time": 1.9073486328125e-05,
+            "basic_operations_count": 63
+        }
+    ],
+    "graphs/graph_008_25.json": [
+        {
+            "k": 0.125,
+            "success": false,
+            "configs_tested": 1,
+            "execution_time": 7.152557373046875e-06,
+            "basic_operations_count": 20
+        },
+        {
+            "k": 0.25,
+            "success": false,
+            "configs_tested": 7,
+            "execution_time": 1.2874603271484375e-05,
+            "basic_operations_count": 47
+        },
+        {
+            "k": 0.5,
+            "success": false,
+            "configs_tested": 35,
+            "execution_time": 6.556510925292969e-05,
+            "basic_operations_count": 165
+        },
+        {
+            "k": 0.75,
+            "success": false,
+            "configs_tested": 21,
+            "execution_time": 3.647804260253906e-05,
+            "basic_operations_count": 115
+        }
+    ],
+    "graphs/graph_009_25.json": [
+        {
+            "k": 0.125,
+            "success": false,
+            "configs_tested": 9,
+            "execution_time": 1.71661376953125e-05,
+            "basic_operations_count": 57
+        },
+        {
+            "k": 0.25,
+            "success": false,
+            "configs_tested": 36,
+            "execution_time": 4.887580871582031e-05,
+            "basic_operations_count": 168
+        },
+        {
+            "k": 0.5,
+            "success": false,
+            "configs_tested": 126,
+            "execution_time": 0.00015854835510253906,
+            "basic_operations_count": 534
+        },
+        {
+            "k": 0.75,
+            "success": false,
+            "configs_tested": 84,
+            "execution_time": 0.0001373291015625,
+            "basic_operations_count": 372
+        }
+    ],
+    "graphs/graph_010_25.json": [
+        {
+            "k": 0.125,
+            "success": false,
+            "configs_tested": 11,
+            "execution_time": 1.621246337890625e-05,
+            "basic_operations_count": 67
+        },
+        {
+            "k": 0.25,
+            "success": false,
+            "configs_tested": 55,
+            "execution_time": 5.1975250244140625e-05,
+            "basic_operations_count": 246
+        },
+        {
+            "k": 0.5,
+            "success": false,
+            "configs_tested": 462,
+            "execution_time": 0.0006659030914306641,
+            "basic_operations_count": 1883
+        },
+        {
+            "k": 0.75,
+            "success": false,
+            "configs_tested": 165,
+            "execution_time": 0.0004153251647949219,
+            "basic_operations_count": 704
+        }
+    ],
+    "graphs/graph_011_25.json": [
+        {
+            "k": 0.125,
+            "success": false,
+            "configs_tested": 13,
+            "execution_time": 1.6927719116210938e-05,
+            "basic_operations_count": 77
+        },
+        {
+            "k": 0.25,
+            "success": false,
+            "configs_tested": 286,
+            "execution_time": 0.0003159046173095703,
+            "basic_operations_count": 1175
+        },
+        {
+            "k": 0.5,
+            "success": false,
+            "configs_tested": 1716,
+            "execution_time": 0.002523660659790039,
+            "basic_operations_count": 6904
+        },
+        {
+            "k": 0.75,
+            "success": false,
+            "configs_tested": 715,
+            "execution_time": 0.001382589340209961,
+            "basic_operations_count": 2909
+        }
+    ],
+    "graphs/graph_012_25.json": [
+        {
+            "k": 0.125,
+            "success": false,
+            "configs_tested": 120,
+            "execution_time": 0.0001068115234375,
+            "basic_operations_count": 510
+        },
+        {
+            "k": 0.25,
+            "success": false,
+            "configs_tested": 1820,
+            "execution_time": 0.0021860599517822266,
+            "basic_operations_count": 7316
+        },
+        {
+            "k": 0.5,
+            "success": false,
+            "configs_tested": 12870,
+            "execution_time": 0.02635979652404785,
+            "basic_operations_count": 51528
+        },
+        {
+            "k": 0.75,
+            "success": false,
+            "configs_tested": 1820,
+            "execution_time": 0.007729530334472656,
+            "basic_operations_count": 7340
+        }
+    ],
+    "graphs/graph_013_25.json": [
+        {
+            "k": 0.125,
+            "success": false,
+            "configs_tested": 171,
+            "execution_time": 0.00015354156494140625,
+            "basic_operations_count": 716
+        },
+        {
+            "k": 0.25,
+            "success": false,
+            "configs_tested": 3876,
+            "execution_time": 0.004667520523071289,
+            "basic_operations_count": 15542
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 361,
+            "execution_time": 0.0007386207580566406,
+            "basic_operations_count": 1497
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 2,
+            "execution_time": 1.33514404296875e-05,
+            "basic_operations_count": 76
+        }
+    ],
+    "graphs/graph_014_25.json": [
+        {
+            "k": 0.125,
+            "success": false,
+            "configs_tested": 231,
+            "execution_time": 0.00034546852111816406,
+            "basic_operations_count": 958
+        },
+        {
+            "k": 0.25,
+            "success": false,
+            "configs_tested": 26334,
+            "execution_time": 0.04503440856933594,
+            "basic_operations_count": 105379
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 19,
+            "execution_time": 7.62939453125e-05,
+            "basic_operations_count": 137
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 3,
+            "execution_time": 1.9073486328125e-05,
+            "basic_operations_count": 88
+        }
+    ],
+    "graphs/graph_015_25.json": [
+        {
+            "k": 0.125,
+            "success": false,
+            "configs_tested": 2600,
+            "execution_time": 0.003428220748901367,
+            "basic_operations_count": 10439
+        },
+        {
+            "k": 0.25,
+            "success": false,
+            "configs_tested": 230230,
+            "execution_time": 0.3905143737792969,
+            "basic_operations_count": 920968
+        },
+        {
+            "k": 0.5,
+            "success": false,
+            "configs_tested": 10400600,
+            "execution_time": 24.968440532684326,
+            "basic_operations_count": 41602469
+        },
+        {
+            "k": 0.75,
+            "success": false,
+            "configs_tested": 657800,
+            "execution_time": 2.426886558532715,
+            "basic_operations_count": 2631287
+        }
+    ],
+    "graphs/graph_016_25.json": [
+        {
+            "k": 0.125,
+            "success": false,
+            "configs_tested": 4060,
+            "execution_time": 0.005144596099853516,
+            "basic_operations_count": 16281
+        },
+        {
+            "k": 0.25,
+            "success": false,
+            "configs_tested": 2035800,
+            "execution_time": 3.4305779933929443,
+            "basic_operations_count": 8143253
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 8.821487426757812e-06,
+            "basic_operations_count": 81
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 1.1444091796875e-05,
+            "basic_operations_count": 102
+        }
+    ],
+    "graphs/graph_017_25.json": [
+        {
+            "k": 0.125,
+            "success": false,
+            "configs_tested": 46376,
+            "execution_time": 0.06416082382202148,
+            "basic_operations_count": 185550
+        },
+        {
+            "k": 0.25,
+            "success": false,
+            "configs_tested": 18156204,
+            "execution_time": 32.68275499343872,
+            "basic_operations_count": 72624874
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 9.775161743164062e-06,
+            "basic_operations_count": 89
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 1.1682510375976562e-05,
+            "basic_operations_count": 113
+        }
+    ],
+    "graphs/graph_018_25.json": [
+        {
+            "k": 0.125,
+            "success": false,
+            "configs_tested": 73815,
+            "execution_time": 0.09104800224304199,
+            "basic_operations_count": 295308
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 16028823,
+            "execution_time": 34.366687536239624,
+            "basic_operations_count": 64115355
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1556,
+            "execution_time": 0.007883310317993164,
+            "basic_operations_count": 6317
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 8,
+            "execution_time": 5.435943603515625e-05,
+            "basic_operations_count": 152
+        }
+    ],
+    "graphs/graph_016_50.json": [
+        {
+            "k": 0.125,
+            "success": false,
+            "configs_tested": 386206920,
+            "execution_time": 626.2665464878082,
+            "basic_operations_count": 1544827733
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 61,
+            "execution_time": 0.0001780986785888672,
+            "basic_operations_count": 321
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 1.2636184692382812e-05,
+            "basic_operations_count": 126
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 1.4066696166992188e-05,
+            "basic_operations_count": 171
+        }
+    ],
+    "graphs/graph_019_25.json": [
+        {
+            "k": 0.125,
+            "success": false,
+            "configs_tested": 850668,
+            "execution_time": 1.348168134689331,
+            "basic_operations_count": 3402725
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 5633679,
+            "execution_time": 12.70056700706482,
+            "basic_operations_count": 22534784
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 27,
+            "execution_time": 0.00010824203491210938,
+            "basic_operations_count": 209
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 1.4543533325195312e-05,
+            "basic_operations_count": 135
+        }
+    ],
+    "graphs/graph_020_25.json": [
+        {
+            "k": 0.125,
+            "success": false,
+            "configs_tested": 1533939,
+            "execution_time": 2.4727883338928223,
+            "basic_operations_count": 6135811
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 867531,
+            "execution_time": 1.8894803524017334,
+            "basic_operations_count": 3470197
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 50,
+            "execution_time": 0.00021076202392578125,
+            "basic_operations_count": 309
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 1.6450881958007812e-05,
+            "basic_operations_count": 149
+        }
+    ],
+    "graphs/graph_021_25.json": [
+        {
+            "k": 0.125,
+            "success": false,
+            "configs_tested": 20358520,
+            "execution_time": 32.96136951446533,
+            "basic_operations_count": 81434140
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 19056679,
+            "execution_time": 45.515552282333374,
+            "basic_operations_count": 76226797
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 1.2874603271484375e-05,
+            "basic_operations_count": 124
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 1.7881393432617188e-05,
+            "basic_operations_count": 163
+        }
+    ],
+    "graphs/graph_004_50.json": [
+        {
+            "k": 0.125,
+            "success": false,
+            "configs_tested": 1,
+            "execution_time": 1.0728836059570312e-05,
+            "basic_operations_count": 12
+        },
+        {
+            "k": 0.25,
+            "success": false,
+            "configs_tested": 1,
+            "execution_time": 7.62939453125e-06,
+            "basic_operations_count": 12
+        },
+        {
+            "k": 0.5,
+            "success": false,
+            "configs_tested": 3,
+            "execution_time": 1.1205673217773438e-05,
+            "basic_operations_count": 23
+        },
+        {
+            "k": 0.75,
+            "success": false,
+            "configs_tested": 3,
+            "execution_time": 1.2874603271484375e-05,
+            "basic_operations_count": 26
+        }
+    ],
+    "graphs/graph_005_50.json": [
+        {
+            "k": 0.125,
+            "success": false,
+            "configs_tested": 1,
+            "execution_time": 1.5974044799804688e-05,
+            "basic_operations_count": 14
+        },
+        {
+            "k": 0.25,
+            "success": false,
+            "configs_tested": 5,
+            "execution_time": 1.3589859008789062e-05,
+            "basic_operations_count": 33
+        },
+        {
+            "k": 0.5,
+            "success": false,
+            "configs_tested": 10,
+            "execution_time": 1.9550323486328125e-05,
+            "basic_operations_count": 56
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 6.198883056640625e-06,
+            "basic_operations_count": 23
+        }
+    ],
+    "graphs/graph_006_50.json": [
+        {
+            "k": 0.125,
+            "success": false,
+            "configs_tested": 1,
+            "execution_time": 8.106231689453125e-06,
+            "basic_operations_count": 16
+        },
+        {
+            "k": 0.25,
+            "success": false,
+            "configs_tested": 7,
+            "execution_time": 9.298324584960938e-06,
+            "basic_operations_count": 43
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 19,
+            "execution_time": 4.00543212890625e-05,
+            "basic_operations_count": 97
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 6.67572021484375e-06,
+            "basic_operations_count": 31
+        }
+    ],
+    "graphs/graph_007_50.json": [
+        {
+            "k": 0.125,
+            "success": false,
+            "configs_tested": 10,
+            "execution_time": 1.9788742065429688e-05,
+            "basic_operations_count": 57
+        },
+        {
+            "k": 0.25,
+            "success": false,
+            "configs_tested": 45,
+            "execution_time": 4.291534423828125e-05,
+            "basic_operations_count": 200
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 2,
+            "execution_time": 7.3909759521484375e-06,
+            "basic_operations_count": 37
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 5.9604644775390625e-06,
+            "basic_operations_count": 39
+        }
+    ],
+    "graphs/graph_008_50.json": [
+        {
+            "k": 0.125,
+            "success": false,
+            "configs_tested": 14,
+            "execution_time": 1.6927719116210938e-05,
+            "basic_operations_count": 75
+        },
+        {
+            "k": 0.25,
+            "success": false,
+            "configs_tested": 364,
+            "execution_time": 0.0003845691680908203,
+            "basic_operations_count": 1481
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 5.9604644775390625e-06,
+            "basic_operations_count": 41
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 1.0251998901367188e-05,
+            "basic_operations_count": 50
+        }
+    ],
+    "graphs/graph_009_50.json": [
+        {
+            "k": 0.125,
+            "success": false,
+            "configs_tested": 153,
+            "execution_time": 0.0001361370086669922,
+            "basic_operations_count": 636
+        },
+        {
+            "k": 0.25,
+            "success": false,
+            "configs_tested": 3060,
+            "execution_time": 0.003727436065673828,
+            "basic_operations_count": 12270
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 5,
+            "execution_time": 1.5735626220703125e-05,
+            "basic_operations_count": 65
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 2.4080276489257812e-05,
+            "basic_operations_count": 61
+        }
+    ],
+    "graphs/graph_010_50.json": [
+        {
+            "k": 0.125,
+            "success": false,
+            "configs_tested": 231,
+            "execution_time": 0.00020360946655273438,
+            "basic_operations_count": 950
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1977,
+            "execution_time": 0.0035943984985351562,
+            "basic_operations_count": 7943
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 2,
+            "execution_time": 1.1205673217773438e-05,
+            "basic_operations_count": 61
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 1.52587890625e-05,
+            "basic_operations_count": 72
+        }
+    ],
+    "graphs/graph_011_50.json": [
+        {
+            "k": 0.125,
+            "success": false,
+            "configs_tested": 2925,
+            "execution_time": 0.0031659603118896484,
+            "basic_operations_count": 11731
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 502,
+            "execution_time": 0.000743865966796875,
+            "basic_operations_count": 2048
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 7.3909759521484375e-06,
+            "basic_operations_count": 65
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 9.298324584960938e-06,
+            "basic_operations_count": 86
+        }
+    ],
+    "graphs/graph_012_50.json": [
+        {
+            "k": 0.125,
+            "success": false,
+            "configs_tested": 40920,
+            "execution_time": 0.05707287788391113,
+            "basic_operations_count": 163716
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 214,
+            "execution_time": 0.00038623809814453125,
+            "basic_operations_count": 904
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 4,
+            "execution_time": 1.7642974853515625e-05,
+            "basic_operations_count": 88
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 9.775161743164062e-06,
+            "basic_operations_count": 100
+        }
+    ],
+    "graphs/graph_013_50.json": [
+        {
+            "k": 0.125,
+            "success": false,
+            "configs_tested": 82251,
+            "execution_time": 0.10568714141845703,
+            "basic_operations_count": 329042
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 670,
+            "execution_time": 0.0012478828430175781,
+            "basic_operations_count": 2733
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 9.775161743164062e-06,
+            "basic_operations_count": 87
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 1.049041748046875e-05,
+            "basic_operations_count": 117
+        }
+    ],
+    "graphs/graph_014_50.json": [
+        {
+            "k": 0.125,
+            "success": false,
+            "configs_tested": 1221759,
+            "execution_time": 1.8693172931671143,
+            "basic_operations_count": 4887079
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 938,
+            "execution_time": 0.001951456069946289,
+            "basic_operations_count": 3813
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 1.7404556274414062e-05,
+            "basic_operations_count": 98
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 1.4543533325195312e-05,
+            "basic_operations_count": 131
+        }
+    ],
+    "graphs/graph_015_50.json": [
+        {
+            "k": 0.125,
+            "success": false,
+            "configs_tested": 20358520,
+            "execution_time": 30.939193964004517,
+            "basic_operations_count": 81434128
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 13,
+            "execution_time": 3.647804260253906e-05,
+            "basic_operations_count": 121
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 1.1205673217773438e-05,
+            "basic_operations_count": 112
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 1.9311904907226562e-05,
+            "basic_operations_count": 151
+        }
+    ],
+    "graphs/graph_004_75.json": [
+        {
+            "k": 0.125,
+            "success": false,
+            "configs_tested": 1,
+            "execution_time": 6.198883056640625e-06,
+            "basic_operations_count": 12
+        },
+        {
+            "k": 0.25,
+            "success": false,
+            "configs_tested": 4,
+            "execution_time": 6.4373016357421875e-06,
+            "basic_operations_count": 27
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 3,
+            "execution_time": 5.4836273193359375e-06,
+            "basic_operations_count": 26
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 3.5762786865234375e-06,
+            "basic_operations_count": 21
+        }
+    ],
+    "graphs/graph_005_75.json": [
+        {
+            "k": 0.125,
+            "success": false,
+            "configs_tested": 1,
+            "execution_time": 7.867813110351562e-06,
+            "basic_operations_count": 14
+        },
+        {
+            "k": 0.25,
+            "success": false,
+            "configs_tested": 7,
+            "execution_time": 8.58306884765625e-06,
+            "basic_operations_count": 41
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 4.0531158447265625e-06,
+            "basic_operations_count": 23
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 4.291534423828125e-06,
+            "basic_operations_count": 29
+        }
+    ],
+    "graphs/graph_006_75.json": [
+        {
+            "k": 0.125,
+            "success": false,
+            "configs_tested": 11,
+            "execution_time": 1.3828277587890625e-05,
+            "basic_operations_count": 59
+        },
+        {
+            "k": 0.25,
+            "success": false,
+            "configs_tested": 55,
+            "execution_time": 4.6253204345703125e-05,
+            "basic_operations_count": 238
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 4,
+            "execution_time": 1.0251998901367188e-05,
+            "basic_operations_count": 43
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 4.5299530029296875e-06,
+            "basic_operations_count": 40
+        }
+    ],
+    "graphs/graph_007_75.json": [
+        {
+            "k": 0.125,
+            "success": false,
+            "configs_tested": 15,
+            "execution_time": 1.7404556274414062e-05,
+            "basic_operations_count": 77
+        },
+        {
+            "k": 0.25,
+            "success": false,
+            "configs_tested": 455,
+            "execution_time": 0.00045871734619140625,
+            "basic_operations_count": 1843
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 5.4836273193359375e-06,
+            "basic_operations_count": 39
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 6.198883056640625e-06,
+            "basic_operations_count": 51
+        }
+    ],
+    "graphs/graph_008_75.json": [
+        {
+            "k": 0.125,
+            "success": false,
+            "configs_tested": 210,
+            "execution_time": 0.00016736984252929688,
+            "basic_operations_count": 862
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 7,
+            "execution_time": 1.5974044799804688e-05,
+            "basic_operations_count": 59
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 5.9604644775390625e-06,
+            "basic_operations_count": 50
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 7.3909759521484375e-06,
+            "basic_operations_count": 65
+        }
+    ],
+    "graphs/graph_009_75.json": [
+        {
+            "k": 0.125,
+            "success": false,
+            "configs_tested": 2925,
+            "execution_time": 0.0028536319732666016,
+            "basic_operations_count": 11727
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 228,
+            "execution_time": 0.00044226646423339844,
+            "basic_operations_count": 948
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 1.4543533325195312e-05,
+            "basic_operations_count": 61
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 9.059906005859375e-06,
+            "basic_operations_count": 82
+        }
+    ],
+    "graphs/graph_010_75.json": [
+        {
+            "k": 0.125,
+            "success": false,
+            "configs_tested": 40920,
+            "execution_time": 0.048806190490722656,
+            "basic_operations_count": 163712
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 103,
+            "execution_time": 0.00017714500427246094,
+            "basic_operations_count": 456
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 8.821487426757812e-06,
+            "basic_operations_count": 72
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 1.0251998901367188e-05,
+            "basic_operations_count": 96
+        }
+    ],
+    "graphs/graph_011_75.json": [
+        {
+            "k": 0.125,
+            "success": false,
+            "configs_tested": 749398,
+            "execution_time": 1.1202266216278076,
+            "basic_operations_count": 2997629
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 470,
+            "execution_time": 0.0009069442749023438,
+            "basic_operations_count": 1932
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 4,
+            "execution_time": 2.2172927856445312e-05,
+            "basic_operations_count": 98
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 1.0728836059570312e-05,
+            "basic_operations_count": 116
+        }
+    ],
+    "graphs/graph_012_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 1219,
+            "execution_time": 0.0017871856689453125,
+            "basic_operations_count": 4918
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 5,
+            "execution_time": 1.9073486328125e-05,
+            "basic_operations_count": 80
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 1.2874603271484375e-05,
+            "basic_operations_count": 100
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 1.3589859008789062e-05,
+            "basic_operations_count": 136
+        }
+    ],
+    "graphs/graph_013_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 71372,
+            "execution_time": 0.11504840850830078,
+            "basic_operations_count": 285535
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 33,
+            "execution_time": 9.012222290039062e-05,
+            "basic_operations_count": 200
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 1.1682510375976562e-05,
+            "basic_operations_count": 117
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 1.3828277587890625e-05,
+            "basic_operations_count": 159
+        }
+    ],
+    "graphs/graph_014_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 636338,
+            "execution_time": 1.0894725322723389,
+            "basic_operations_count": 2545404
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 23,
+            "execution_time": 7.915496826171875e-05,
+            "basic_operations_count": 171
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 1.5020370483398438e-05,
+            "basic_operations_count": 134
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 1.5020370483398438e-05,
+            "basic_operations_count": 185
+        }
+    ],
+    "graphs/graph_015_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 224358,
+            "execution_time": 0.40825438499450684,
+            "basic_operations_count": 897489
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 1.33514404296875e-05,
+            "basic_operations_count": 91
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 1.4066696166992188e-05,
+            "basic_operations_count": 151
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 1.71661376953125e-05,
+            "basic_operations_count": 208
+        }
+    ],
+    "graphs/graph_016_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 13418,
+            "execution_time": 0.02758622169494629,
+            "basic_operations_count": 53737
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 6,
+            "execution_time": 3.457069396972656e-05,
+            "basic_operations_count": 122
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 2.5272369384765625e-05,
+            "basic_operations_count": 171
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 3.147125244140625e-05,
+            "basic_operations_count": 237
+        }
+    ],
+    "graphs/graph_017_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 8800,
+            "execution_time": 0.018550395965576172,
+            "basic_operations_count": 35270
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 8,
+            "execution_time": 5.7697296142578125e-05,
+            "basic_operations_count": 141
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 1.621246337890625e-05,
+            "basic_operations_count": 191
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 1.9788742065429688e-05,
+            "basic_operations_count": 266
+        }
+    ],
+    "graphs/graph_018_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 10369,
+            "execution_time": 0.025361299514770508,
+            "basic_operations_count": 41554
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 1.4543533325195312e-05,
+            "basic_operations_count": 124
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 1.621246337890625e-05,
+            "basic_operations_count": 211
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 2.2411346435546875e-05,
+            "basic_operations_count": 295
+        }
+    ],
+    "graphs/graph_019_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 601,
+            "execution_time": 0.0016989707946777344,
+            "basic_operations_count": 2490
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 1.3828277587890625e-05,
+            "basic_operations_count": 138
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 1.8596649169921875e-05,
+            "basic_operations_count": 234
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 2.5272369384765625e-05,
+            "basic_operations_count": 330
+        }
+    ],
+    "graphs/graph_020_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 8014,
+            "execution_time": 0.02284860610961914,
+            "basic_operations_count": 32147
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 1.430511474609375e-05,
+            "basic_operations_count": 149
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 1.9073486328125e-05,
+            "basic_operations_count": 257
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 2.6464462280273438e-05,
+            "basic_operations_count": 362
+        }
+    ],
+    "graphs/graph_021_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 131,
+            "execution_time": 0.0004818439483642578,
+            "basic_operations_count": 623
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 3,
+            "execution_time": 3.6716461181640625e-05,
+            "basic_operations_count": 171
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 2.0742416381835938e-05,
+            "basic_operations_count": 280
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 2.6702880859375e-05,
+            "basic_operations_count": 397
+        }
+    ],
+    "graphs/graph_022_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 1.5020370483398438e-05,
+            "basic_operations_count": 111
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 1.52587890625e-05,
+            "basic_operations_count": 177
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 2.3126602172851562e-05,
+            "basic_operations_count": 306
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 2.8371810913085938e-05,
+            "basic_operations_count": 435
+        }
+    ],
+    "graphs/graph_023_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 1864,
+            "execution_time": 0.008285760879516602,
+            "basic_operations_count": 7571
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 1.8596649169921875e-05,
+            "basic_operations_count": 191
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 2.6226043701171875e-05,
+            "basic_operations_count": 332
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 3.170967102050781e-05,
+            "basic_operations_count": 473
+        }
+    ],
+    "graphs/graph_024_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 15248,
+            "execution_time": 0.06323647499084473,
+            "basic_operations_count": 61115
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 1.811981201171875e-05,
+            "basic_operations_count": 205
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 2.6464462280273438e-05,
+            "basic_operations_count": 361
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 3.2901763916015625e-05,
+            "basic_operations_count": 517
+        }
+    ],
+    "graphs/graph_025_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 1092,
+            "execution_time": 0.004788398742675781,
+            "basic_operations_count": 4502
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 1.7642974853515625e-05,
+            "basic_operations_count": 222
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 3.0040740966796875e-05,
+            "basic_operations_count": 390
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 3.457069396972656e-05,
+            "basic_operations_count": 558
+        }
+    ],
+    "graphs/graph_026_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 11,
+            "execution_time": 0.00013184547424316406,
+            "basic_operations_count": 186
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 3.1948089599609375e-05,
+            "basic_operations_count": 236
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 5.030632019042969e-05,
+            "basic_operations_count": 419
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 6.580352783203125e-05,
+            "basic_operations_count": 602
+        }
+    ],
+    "graphs/graph_027_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 297,
+            "execution_time": 0.001453399658203125,
+            "basic_operations_count": 1338
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 1.9550323486328125e-05,
+            "basic_operations_count": 253
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 3.0517578125e-05,
+            "basic_operations_count": 451
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 4.0531158447265625e-05,
+            "basic_operations_count": 649
+        }
+    ],
+    "graphs/graph_028_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 2.1457672119140625e-05,
+            "basic_operations_count": 165
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 2.193450927734375e-05,
+            "basic_operations_count": 270
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 3.2901763916015625e-05,
+            "basic_operations_count": 483
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 4.2438507080078125e-05,
+            "basic_operations_count": 696
+        }
+    ],
+    "graphs/graph_029_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 178,
+            "execution_time": 0.0010457038879394531,
+            "basic_operations_count": 884
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 2.0503997802734375e-05,
+            "basic_operations_count": 290
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 3.266334533691406e-05,
+            "basic_operations_count": 518
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 4.291534423828125e-05,
+            "basic_operations_count": 746
+        }
+    ],
+    "graphs/graph_030_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 1.8835067749023438e-05,
+            "basic_operations_count": 184
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 2.4080276489257812e-05,
+            "basic_operations_count": 307
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 3.457069396972656e-05,
+            "basic_operations_count": 553
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 4.553794860839844e-05,
+            "basic_operations_count": 796
+        }
+    ],
+    "graphs/graph_031_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 1.9550323486328125e-05,
+            "basic_operations_count": 195
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 2.6702880859375e-05,
+            "basic_operations_count": 327
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 3.981590270996094e-05,
+            "basic_operations_count": 588
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 5.412101745605469e-05,
+            "basic_operations_count": 849
+        }
+    ],
+    "graphs/graph_032_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 1959,
+            "execution_time": 0.013588190078735352,
+            "basic_operations_count": 8038
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 2.765655517578125e-05,
+            "basic_operations_count": 347
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 4.220008850097656e-05,
+            "basic_operations_count": 626
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 5.2928924560546875e-05,
+            "basic_operations_count": 905
+        }
+    ],
+    "graphs/graph_033_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 47,
+            "execution_time": 0.0003516674041748047,
+            "basic_operations_count": 401
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 3.4332275390625e-05,
+            "basic_operations_count": 367
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 4.291534423828125e-05,
+            "basic_operations_count": 664
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 8.058547973632812e-05,
+            "basic_operations_count": 961
+        }
+    ],
+    "graphs/graph_034_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 21614,
+            "execution_time": 0.17589664459228516,
+            "basic_operations_count": 86680
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 25,
+            "execution_time": 0.00040841102600097656,
+            "basic_operations_count": 483
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 4.291534423828125e-05,
+            "basic_operations_count": 702
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 9.34600830078125e-05,
+            "basic_operations_count": 1017
+        }
+    ],
+    "graphs/graph_035_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 2.2411346435546875e-05,
+            "basic_operations_count": 239
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 2.956390380859375e-05,
+            "basic_operations_count": 407
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 5.125999450683594e-05,
+            "basic_operations_count": 743
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 7.271766662597656e-05,
+            "basic_operations_count": 1076
+        }
+    ],
+    "graphs/graph_036_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 9,
+            "execution_time": 0.00010371208190917969,
+            "basic_operations_count": 285
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 3.2901763916015625e-05,
+            "basic_operations_count": 430
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 5.054473876953125e-05,
+            "basic_operations_count": 784
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 7.510185241699219e-05,
+            "basic_operations_count": 1138
+        }
+    ],
+    "graphs/graph_037_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 2.8848648071289062e-05,
+            "basic_operations_count": 264
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 3.314018249511719e-05,
+            "basic_operations_count": 450
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 5.125999450683594e-05,
+            "basic_operations_count": 825
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 7.867813110351562e-05,
+            "basic_operations_count": 1200
+        }
+    ],
+    "graphs/graph_038_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 19437,
+            "execution_time": 0.1815786361694336,
+            "basic_operations_count": 78019
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 3.790855407714844e-05,
+            "basic_operations_count": 473
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 5.6743621826171875e-05,
+            "basic_operations_count": 869
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 8.630752563476562e-05,
+            "basic_operations_count": 1265
+        }
+    ],
+    "graphs/graph_039_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 79,
+            "execution_time": 0.0009737014770507812,
+            "basic_operations_count": 601
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 3.600120544433594e-05,
+            "basic_operations_count": 496
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 5.626678466796875e-05,
+            "basic_operations_count": 913
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 8.559226989746094e-05,
+            "basic_operations_count": 1330
+        }
+    ],
+    "graphs/graph_040_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 2.6941299438476562e-05,
+            "basic_operations_count": 303
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 3.719329833984375e-05,
+            "basic_operations_count": 522
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 5.984306335449219e-05,
+            "basic_operations_count": 960
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.0001494884490966797,
+            "basic_operations_count": 1398
+        }
+    ],
+    "graphs/graph_041_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 2.6702880859375e-05,
+            "basic_operations_count": 314
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 3.7670135498046875e-05,
+            "basic_operations_count": 545
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 6.747245788574219e-05,
+            "basic_operations_count": 1007
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 8.702278137207031e-05,
+            "basic_operations_count": 1469
+        }
+    ],
+    "graphs/graph_042_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 3.147125244140625e-05,
+            "basic_operations_count": 328
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 4.076957702636719e-05,
+            "basic_operations_count": 571
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 7.557868957519531e-05,
+            "basic_operations_count": 1054
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00011181831359863281,
+            "basic_operations_count": 1537
+        }
+    ],
+    "graphs/graph_043_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 12,
+            "execution_time": 0.0001857280731201172,
+            "basic_operations_count": 386
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 5.0067901611328125e-05,
+            "basic_operations_count": 597
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 7.486343383789062e-05,
+            "basic_operations_count": 1104
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 9.846687316894531e-05,
+            "basic_operations_count": 1611
+        }
+    ],
+    "graphs/graph_044_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 28,
+            "execution_time": 0.00040531158447265625,
+            "basic_operations_count": 464
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 3.814697265625e-05,
+            "basic_operations_count": 623
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 7.414817810058594e-05,
+            "basic_operations_count": 1154
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 9.775161743164062e-05,
+            "basic_operations_count": 1685
+        }
+    ],
+    "graphs/graph_045_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 3.4809112548828125e-05,
+            "basic_operations_count": 370
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 4.3392181396484375e-05,
+            "basic_operations_count": 649
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 7.772445678710938e-05,
+            "basic_operations_count": 1207
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00010776519775390625,
+            "basic_operations_count": 1762
+        }
+    ],
+    "graphs/graph_046_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 3.600120544433594e-05,
+            "basic_operations_count": 387
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 4.5299530029296875e-05,
+            "basic_operations_count": 678
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 8.106231689453125e-05,
+            "basic_operations_count": 1260
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00011038780212402344,
+            "basic_operations_count": 1842
+        }
+    ],
+    "graphs/graph_047_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 685,
+            "execution_time": 0.009704113006591797,
+            "basic_operations_count": 3137
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 4.506111145019531e-05,
+            "basic_operations_count": 704
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 8.082389831542969e-05,
+            "basic_operations_count": 1313
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00011110305786132812,
+            "basic_operations_count": 1919
+        }
+    ],
+    "graphs/graph_048_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 2247,
+            "execution_time": 0.04202985763549805,
+            "basic_operations_count": 9399
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 6.389617919921875e-05,
+            "basic_operations_count": 733
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 9.393692016601562e-05,
+            "basic_operations_count": 1369
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00012254714965820312,
+            "basic_operations_count": 2002
+        }
+    ],
+    "graphs/graph_049_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 3.7670135498046875e-05,
+            "basic_operations_count": 432
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 4.863739013671875e-05,
+            "basic_operations_count": 762
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 8.916854858398438e-05,
+            "basic_operations_count": 1425
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00012254714965820312,
+            "basic_operations_count": 2085
+        }
+    ],
+    "graphs/graph_050_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 3.6716461181640625e-05,
+            "basic_operations_count": 446
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 5.054473876953125e-05,
+            "basic_operations_count": 791
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 9.5367431640625e-05,
+            "basic_operations_count": 1481
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00013303756713867188,
+            "basic_operations_count": 2168
+        }
+    ],
+    "graphs/graph_051_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 17,
+            "execution_time": 0.00037288665771484375,
+            "basic_operations_count": 527
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 5.269050598144531e-05,
+            "basic_operations_count": 823
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00010204315185546875,
+            "basic_operations_count": 1540
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.0001373291015625,
+            "basic_operations_count": 2257
+        }
+    ],
+    "graphs/graph_052_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 734,
+            "execution_time": 0.013191699981689453,
+            "basic_operations_count": 3412
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 5.53131103515625e-05,
+            "basic_operations_count": 852
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00010204315185546875,
+            "basic_operations_count": 1599
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.0001373291015625,
+            "basic_operations_count": 2343
+        }
+    ],
+    "graphs/graph_053_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 4.076957702636719e-05,
+            "basic_operations_count": 497
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 6.008148193359375e-05,
+            "basic_operations_count": 884
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00010371208190917969,
+            "basic_operations_count": 1658
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00014209747314453125,
+            "basic_operations_count": 2432
+        }
+    ],
+    "graphs/graph_054_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 3.981590270996094e-05,
+            "basic_operations_count": 514
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 9.894371032714844e-05,
+            "basic_operations_count": 916
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00010633468627929688,
+            "basic_operations_count": 1720
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.0001468658447265625,
+            "basic_operations_count": 2524
+        }
+    ],
+    "graphs/graph_055_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 4.76837158203125e-05,
+            "basic_operations_count": 531
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 6.246566772460938e-05,
+            "basic_operations_count": 948
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00011491775512695312,
+            "basic_operations_count": 1782
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00015926361083984375,
+            "basic_operations_count": 2616
+        }
+    ],
+    "graphs/graph_056_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 4.291534423828125e-05,
+            "basic_operations_count": 548
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 6.270408630371094e-05,
+            "basic_operations_count": 980
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00011658668518066406,
+            "basic_operations_count": 1847
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00015997886657714844,
+            "basic_operations_count": 2714
+        }
+    ],
+    "graphs/graph_057_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 4.553794860839844e-05,
+            "basic_operations_count": 565
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 6.914138793945312e-05,
+            "basic_operations_count": 1015
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00011444091796875,
+            "basic_operations_count": 1912
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00015854835510253906,
+            "basic_operations_count": 2809
+        }
+    ],
+    "graphs/graph_058_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 4.649162292480469e-05,
+            "basic_operations_count": 582
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 7.2479248046875e-05,
+            "basic_operations_count": 1047
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00012063980102539062,
+            "basic_operations_count": 1977
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00017213821411132812,
+            "basic_operations_count": 2907
+        }
+    ],
+    "graphs/graph_059_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 4.7206878662109375e-05,
+            "basic_operations_count": 602
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 7.462501525878906e-05,
+            "basic_operations_count": 1082
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00012350082397460938,
+            "basic_operations_count": 2045
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.000179290771484375,
+            "basic_operations_count": 3008
+        }
+    ],
+    "graphs/graph_060_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 88,
+            "execution_time": 0.0020208358764648438,
+            "basic_operations_count": 967
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 8.130073547363281e-05,
+            "basic_operations_count": 1117
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00013518333435058594,
+            "basic_operations_count": 2113
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.0003209114074707031,
+            "basic_operations_count": 3109
+        }
+    ],
+    "graphs/graph_061_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 4809,
+            "execution_time": 0.12072944641113281,
+            "basic_operations_count": 19871
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 8.177757263183594e-05,
+            "basic_operations_count": 1155
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00014090538024902344,
+            "basic_operations_count": 2184
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00019693374633789062,
+            "basic_operations_count": 3213
+        }
+    ],
+    "graphs/graph_062_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 5.2928924560546875e-05,
+            "basic_operations_count": 659
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 8.20159912109375e-05,
+            "basic_operations_count": 1190
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00014352798461914062,
+            "basic_operations_count": 2255
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.0001926422119140625,
+            "basic_operations_count": 3317
+        }
+    ],
+    "graphs/graph_063_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 5.9604644775390625e-05,
+            "basic_operations_count": 679
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 8.511543273925781e-05,
+            "basic_operations_count": 1228
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00014638900756835938,
+            "basic_operations_count": 2326
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.0001919269561767578,
+            "basic_operations_count": 3424
+        }
+    ],
+    "graphs/graph_064_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 5.459785461425781e-05,
+            "basic_operations_count": 699
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 8.654594421386719e-05,
+            "basic_operations_count": 1266
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00015044212341308594,
+            "basic_operations_count": 2400
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00021386146545410156,
+            "basic_operations_count": 3534
+        }
+    ],
+    "graphs/graph_065_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 5.5789947509765625e-05,
+            "basic_operations_count": 719
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 8.726119995117188e-05,
+            "basic_operations_count": 1304
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00014781951904296875,
+            "basic_operations_count": 2474
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.0002090930938720703,
+            "basic_operations_count": 3644
+        }
+    ],
+    "graphs/graph_066_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 5.4836273193359375e-05,
+            "basic_operations_count": 739
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 9.059906005859375e-05,
+            "basic_operations_count": 1342
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00015401840209960938,
+            "basic_operations_count": 2548
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00023174285888671875,
+            "basic_operations_count": 3754
+        }
+    ],
+    "graphs/graph_067_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 5.817413330078125e-05,
+            "basic_operations_count": 759
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 9.560585021972656e-05,
+            "basic_operations_count": 1380
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.0001652240753173828,
+            "basic_operations_count": 2625
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.0002925395965576172,
+            "basic_operations_count": 3867
+        }
+    ],
+    "graphs/graph_068_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 5.698204040527344e-05,
+            "basic_operations_count": 779
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 9.608268737792969e-05,
+            "basic_operations_count": 1421
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.0001659393310546875,
+            "basic_operations_count": 2702
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.0002932548522949219,
+            "basic_operations_count": 3983
+        }
+    ],
+    "graphs/graph_069_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 6.222724914550781e-05,
+            "basic_operations_count": 799
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 9.942054748535156e-05,
+            "basic_operations_count": 1459
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.0001800060272216797,
+            "basic_operations_count": 2779
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00028061866760253906,
+            "basic_operations_count": 4099
+        }
+    ],
+    "graphs/graph_070_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 6.0558319091796875e-05,
+            "basic_operations_count": 822
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00010132789611816406,
+            "basic_operations_count": 1500
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.0002276897430419922,
+            "basic_operations_count": 2859
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00028395652770996094,
+            "basic_operations_count": 4218
+        }
+    ],
+    "graphs/graph_071_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 6.389617919921875e-05,
+            "basic_operations_count": 842
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00010418891906738281,
+            "basic_operations_count": 1541
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.0001811981201171875,
+            "basic_operations_count": 2939
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.0003018379211425781,
+            "basic_operations_count": 4337
+        }
+    ],
+    "graphs/graph_072_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 6.437301635742188e-05,
+            "basic_operations_count": 865
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00010824203491210938,
+            "basic_operations_count": 1585
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00019216537475585938,
+            "basic_operations_count": 3022
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00045371055603027344,
+            "basic_operations_count": 4459
+        }
+    ],
+    "graphs/graph_073_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 6.365776062011719e-05,
+            "basic_operations_count": 888
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00011229515075683594,
+            "basic_operations_count": 1626
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00018739700317382812,
+            "basic_operations_count": 3105
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00031638145446777344,
+            "basic_operations_count": 4584
+        }
+    ],
+    "graphs/graph_074_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 6.556510925292969e-05,
+            "basic_operations_count": 911
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00011396408081054688,
+            "basic_operations_count": 1670
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00019073486328125,
+            "basic_operations_count": 3188
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00032639503479003906,
+            "basic_operations_count": 4706
+        }
+    ],
+    "graphs/graph_075_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 6.937980651855469e-05,
+            "basic_operations_count": 934
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00011777877807617188,
+            "basic_operations_count": 1714
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00020170211791992188,
+            "basic_operations_count": 3274
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00032210350036621094,
+            "basic_operations_count": 4834
+        }
+    ],
+    "graphs/graph_076_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 7.104873657226562e-05,
+            "basic_operations_count": 957
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00015664100646972656,
+            "basic_operations_count": 1758
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.0002086162567138672,
+            "basic_operations_count": 3360
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.0003380775451660156,
+            "basic_operations_count": 4962
+        }
+    ],
+    "graphs/graph_077_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 7.319450378417969e-05,
+            "basic_operations_count": 980
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00011467933654785156,
+            "basic_operations_count": 1802
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00020623207092285156,
+            "basic_operations_count": 3449
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.0003426074981689453,
+            "basic_operations_count": 5093
+        }
+    ],
+    "graphs/graph_078_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 7.176399230957031e-05,
+            "basic_operations_count": 1003
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00011873245239257812,
+            "basic_operations_count": 1849
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00021409988403320312,
+            "basic_operations_count": 3538
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00033736228942871094,
+            "basic_operations_count": 5227
+        }
+    ],
+    "graphs/graph_079_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 7.677078247070312e-05,
+            "basic_operations_count": 1026
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.0001232624053955078,
+            "basic_operations_count": 1893
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00032830238342285156,
+            "basic_operations_count": 3627
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.0003712177276611328,
+            "basic_operations_count": 5358
+        }
+    ],
+    "graphs/graph_080_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 7.772445678710938e-05,
+            "basic_operations_count": 1052
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00012445449829101562,
+            "basic_operations_count": 1940
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00021195411682128906,
+            "basic_operations_count": 3719
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.0003619194030761719,
+            "basic_operations_count": 5495
+        }
+    ],
+    "graphs/graph_081_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 7.653236389160156e-05,
+            "basic_operations_count": 1075
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.0001266002655029297,
+            "basic_operations_count": 1987
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00021457672119140625,
+            "basic_operations_count": 3811
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.0003867149353027344,
+            "basic_operations_count": 5632
+        }
+    ],
+    "graphs/graph_082_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 9.918212890625e-05,
+            "basic_operations_count": 1101
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00013375282287597656,
+            "basic_operations_count": 2034
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00028514862060546875,
+            "basic_operations_count": 3903
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.0004277229309082031,
+            "basic_operations_count": 5769
+        }
+    ],
+    "graphs/graph_083_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 8.893013000488281e-05,
+            "basic_operations_count": 1127
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00014328956604003906,
+            "basic_operations_count": 2084
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.0003070831298828125,
+            "basic_operations_count": 3998
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.000396728515625,
+            "basic_operations_count": 5912
+        }
+    ],
+    "graphs/graph_084_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 9.083747863769531e-05,
+            "basic_operations_count": 1150
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.0001327991485595703,
+            "basic_operations_count": 2131
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.0002899169921875,
+            "basic_operations_count": 4093
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00040268898010253906,
+            "basic_operations_count": 6052
+        }
+    ],
+    "graphs/graph_085_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 9.083747863769531e-05,
+            "basic_operations_count": 1176
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00015354156494140625,
+            "basic_operations_count": 2181
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00031495094299316406,
+            "basic_operations_count": 4188
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00040602684020996094,
+            "basic_operations_count": 6195
+        }
+    ],
+    "graphs/graph_086_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 9.274482727050781e-05,
+            "basic_operations_count": 1202
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00014472007751464844,
+            "basic_operations_count": 2231
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00030303001403808594,
+            "basic_operations_count": 4286
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00042366981506347656,
+            "basic_operations_count": 6341
+        }
+    ],
+    "graphs/graph_087_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00010180473327636719,
+            "basic_operations_count": 1228
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00014138221740722656,
+            "basic_operations_count": 2281
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.0003223419189453125,
+            "basic_operations_count": 4384
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00042366981506347656,
+            "basic_operations_count": 6487
+        }
+    ],
+    "graphs/graph_088_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 9.584426879882812e-05,
+            "basic_operations_count": 1254
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.0001494884490966797,
+            "basic_operations_count": 2331
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00031638145446777344,
+            "basic_operations_count": 4485
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.0004279613494873047,
+            "basic_operations_count": 6639
+        }
+    ],
+    "graphs/graph_089_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 9.846687316894531e-05,
+            "basic_operations_count": 1283
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00015282630920410156,
+            "basic_operations_count": 2384
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.0003180503845214844,
+            "basic_operations_count": 4586
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00045108795166015625,
+            "basic_operations_count": 6788
+        }
+    ],
+    "graphs/graph_090_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00010156631469726562,
+            "basic_operations_count": 1309
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00015115737915039062,
+            "basic_operations_count": 2434
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.0003247261047363281,
+            "basic_operations_count": 4687
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00045752525329589844,
+            "basic_operations_count": 6940
+        }
+    ],
+    "graphs/graph_091_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00011157989501953125,
+            "basic_operations_count": 1335
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00015282630920410156,
+            "basic_operations_count": 2487
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.0003485679626464844,
+            "basic_operations_count": 4791
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00048828125,
+            "basic_operations_count": 7095
+        }
+    ],
+    "graphs/graph_092_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.0001811981201171875,
+            "basic_operations_count": 1364
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.0001575946807861328,
+            "basic_operations_count": 2540
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00033354759216308594,
+            "basic_operations_count": 4895
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.0004553794860839844,
+            "basic_operations_count": 7250
+        }
+    ],
+    "graphs/graph_093_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00010752677917480469,
+            "basic_operations_count": 1393
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00016045570373535156,
+            "basic_operations_count": 2596
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00035500526428222656,
+            "basic_operations_count": 5002
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.0004761219024658203,
+            "basic_operations_count": 7408
+        }
+    ],
+    "graphs/graph_094_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00010657310485839844,
+            "basic_operations_count": 1419
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00016927719116210938,
+            "basic_operations_count": 2649
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00035953521728515625,
+            "basic_operations_count": 5109
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.0004925727844238281,
+            "basic_operations_count": 7566
+        }
+    ],
+    "graphs/graph_095_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00010800361633300781,
+            "basic_operations_count": 1448
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.0001659393310546875,
+            "basic_operations_count": 2705
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00035119056701660156,
+            "basic_operations_count": 5216
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.0004851818084716797,
+            "basic_operations_count": 7727
+        }
+    ],
+    "graphs/graph_096_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00010824203491210938,
+            "basic_operations_count": 1477
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00017333030700683594,
+            "basic_operations_count": 2761
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.0003631114959716797,
+            "basic_operations_count": 5326
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.0004987716674804688,
+            "basic_operations_count": 7891
+        }
+    ],
+    "graphs/graph_097_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00010991096496582031,
+            "basic_operations_count": 1506
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00018930435180664062,
+            "basic_operations_count": 2817
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.0003616809844970703,
+            "basic_operations_count": 5436
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.0004978179931640625,
+            "basic_operations_count": 8055
+        }
+    ],
+    "graphs/graph_098_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00011348724365234375,
+            "basic_operations_count": 1535
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00018143653869628906,
+            "basic_operations_count": 2873
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.0003662109375,
+            "basic_operations_count": 5546
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.0005083084106445312,
+            "basic_operations_count": 8219
+        }
+    ],
+    "graphs/graph_099_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00012564659118652344,
+            "basic_operations_count": 1564
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00017833709716796875,
+            "basic_operations_count": 2929
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00039458274841308594,
+            "basic_operations_count": 5659
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.0005214214324951172,
+            "basic_operations_count": 8386
+        }
+    ],
+    "graphs/graph_100_75.json": [
+        {
+            "k": 0.125,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00013399124145507812,
+            "basic_operations_count": 1596
+        },
+        {
+            "k": 0.25,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00018477439880371094,
+            "basic_operations_count": 2988
+        },
+        {
+            "k": 0.5,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.00039505958557128906,
+            "basic_operations_count": 5772
+        },
+        {
+            "k": 0.75,
+            "success": true,
+            "configs_tested": 1,
+            "execution_time": 0.0005311965942382812,
+            "basic_operations_count": 8556
+        }
+    ]
+}
