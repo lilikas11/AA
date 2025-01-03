@@ -1,0 +1,122 @@
+{
+    "English": {
+        "exact_vs_lossy": {
+            "top_overlap": 10,
+            "top_overlap_percentage": 100.0,
+            "bottom_overlap": 5,
+            "bottom_overlap_percentage": 50.0
+        },
+        "exact_vs_prob": {
+            "top_overlap": 7,
+            "top_overlap_percentage": 70.0,
+            "bottom_overlap": 10,
+            "bottom_overlap_percentage": 100.0
+        },
+        "lossy_vs_prob": {
+            "top_overlap": 7,
+            "top_overlap_percentage": 70.0,
+            "bottom_overlap": 5,
+            "bottom_overlap_percentage": 50.0
+        }
+    },
+    "Esperanto": {
+        "exact_vs_lossy": {
+            "top_overlap": 10,
+            "top_overlap_percentage": 100.0,
+            "bottom_overlap": 8,
+            "bottom_overlap_percentage": 80.0
+        },
+        "exact_vs_prob": {
+            "top_overlap": 8,
+            "top_overlap_percentage": 80.0,
+            "bottom_overlap": 9,
+            "bottom_overlap_percentage": 90.0
+        },
+        "lossy_vs_prob": {
+            "top_overlap": 8,
+            "top_overlap_percentage": 80.0,
+            "bottom_overlap": 8,
+            "bottom_overlap_percentage": 80.0
+        }
+    },
+    "Finnish": {
+        "exact_vs_lossy": {
+            "top_overlap": 10,
+            "top_overlap_percentage": 100.0,
+            "bottom_overlap": 7,
+            "bottom_overlap_percentage": 70.0
+        },
+        "exact_vs_prob": {
+            "top_overlap": 8,
+            "top_overlap_percentage": 80.0,
+            "bottom_overlap": 10,
+            "bottom_overlap_percentage": 100.0
+        },
+        "lossy_vs_prob": {
+            "top_overlap": 8,
+            "top_overlap_percentage": 80.0,
+            "bottom_overlap": 7,
+            "bottom_overlap_percentage": 70.0
+        }
+    },
+    "French": {
+        "exact_vs_lossy": {
+            "top_overlap": 10,
+            "top_overlap_percentage": 100.0,
+            "bottom_overlap": 6,
+            "bottom_overlap_percentage": 60.0
+        },
+        "exact_vs_prob": {
+            "top_overlap": 7,
+            "top_overlap_percentage": 70.0,
+            "bottom_overlap": 10,
+            "bottom_overlap_percentage": 100.0
+        },
+        "lossy_vs_prob": {
+            "top_overlap": 7,
+            "top_overlap_percentage": 70.0,
+            "bottom_overlap": 6,
+            "bottom_overlap_percentage": 60.0
+        }
+    },
+    "German": {
+        "exact_vs_lossy": {
+            "top_overlap": 10,
+            "top_overlap_percentage": 100.0,
+            "bottom_overlap": 6,
+            "bottom_overlap_percentage": 60.0
+        },
+        "exact_vs_prob": {
+            "top_overlap": 7,
+            "top_overlap_percentage": 70.0,
+            "bottom_overlap": 10,
+            "bottom_overlap_percentage": 100.0
+        },
+        "lossy_vs_prob": {
+            "top_overlap": 7,
+            "top_overlap_percentage": 70.0,
+            "bottom_overlap": 6,
+            "bottom_overlap_percentage": 60.0
+        }
+    },
+    "Italian": {
+        "exact_vs_lossy": {
+            "top_overlap": 10,
+            "top_overlap_percentage": 100.0,
+            "bottom_overlap": 3,
+            "bottom_overlap_percentage": 30.0
+        },
+        "exact_vs_prob": {
+            "top_overlap": 8,
+            "top_overlap_percentage": 80.0,
+            "bottom_overlap": 10,
+            "bottom_overlap_percentage": 100.0
+        },
+        "lossy_vs_prob": {
+            "top_overlap": 8,
+            "top_overlap_percentage": 80.0,
+            "bottom_overlap": 3,
+            "bottom_overlap_percentage": 30.0
+        }
+    }
+}

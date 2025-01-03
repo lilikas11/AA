@@ -1,0 +1,56 @@
+\documentclass{article}
+\usepackage[landscape]{geometry}
+\usepackage{longtable}
+\usepackage{booktabs}
+\begin{document}
+\begin{longtable}{lrrrrrrrrrrr}
+\multicolumn{12}{l}{\textbf{English}} \\
+\toprule
+Algorithm & 1st & 2nd & 3rd & 4th & 5th & 6th & 7th & 8th & 9th & 10th \\\midrule
+Exact & said & alice & little & “i & one & went & like & could & would & thought \\
+Lossy & said & alice & little & “i & one & went & like & could & would & thought \\
+Prob & said & alice & would & thought & see & went & “i & tell & little & mock \\
+\bottomrule
+\addlinespace[1em]
+\multicolumn{12}{l}{\textbf{Esperanto}} \\
+\toprule
+Algorithm & 1st & 2nd & 3rd & 4th & 5th & 6th & 7th & 8th & 9th & 10th \\\midrule
+Exact & la & kaj & sxi & mi & ne & vi & alicio & diris & al & en \\
+Lossy & la & kaj & sxi & mi & ne & vi & alicio & diris & al & en \\
+Prob & la & kaj & sxi & mi & vi & diris & de & alicio & en & sed \\
+\bottomrule
+\addlinespace[1em]
+\multicolumn{12}{l}{\textbf{Finnish}} \\
+\toprule
+Algorithm & 1st & 2nd & 3rd & 4th & 5th & 6th & 7th & 8th & 9th & 10th \\\midrule
+Exact & ja & hän & liisa & oli & sanoi & ei & se & mutta & niin & että \\
+Lossy & ja & hän & liisa & oli & sanoi & ei & se & mutta & niin & että \\
+Prob & ja & ei & liisa & kuin & sanoi & hän & oli & se & mutta & ollut \\
+\bottomrule
+\addlinespace[1em]
+\multicolumn{12}{l}{\textbf{French}} \\
+\toprule
+Algorithm & 1st & 2nd & 3rd & 4th & 5th & 6th & 7th & 8th & 9th & 10th \\\midrule
+Exact & de & la & le & et & à & que & dit & alice & elle & je \\
+Lossy & de & la & le & et & à & que & dit & alice & elle & je \\
+Prob & de & le & la & pas & et & que & les & cest & alice & elle \\
+\bottomrule
+\addlinespace[1em]
+\multicolumn{12}{l}{\textbf{German}} \\
+\toprule
+Algorithm & 1st & 2nd & 3rd & 4th & 5th & 6th & 7th & 8th & 9th & 10th \\\midrule
+Exact & sie & und & die & der & zu & alice & es & sagte & ich & das \\
+Lossy & sie & und & die & der & zu & alice & es & sagte & ich & das \\
+Prob & zu & alice & sagte & und & der & mit & die & das & sich & den \\
+\bottomrule
+\addlinespace[1em]
+\multicolumn{12}{l}{\textbf{Italian}} \\
+\toprule
+Algorithm & 1st & 2nd & 3rd & 4th & 5th & 6th & 7th & 8th & 9th & 10th \\\midrule
+Exact & e & il & la & che & di & non & alice & un & disse & si \\
+Lossy & e & il & la & che & di & non & alice & un & disse & si \\
+Prob & il & di & e & la & non & le & con & che & un & alice \\
+\bottomrule
+\addlinespace[1em]
+\end{longtable}
+\end{document}
